@@ -1,0 +1,6 @@
+export IFACE=vx0
+export BASE_IF=eth0
+export VNI=42
+export ADDRESS=192.168.0.1
+export REMOTE_HOST=1.2.3.4
+export REMOTE_PORT=3232
